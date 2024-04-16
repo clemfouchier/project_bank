@@ -2223,7 +2223,7 @@ if page == pages[6]:
 
   if st.checkbox("Quelques statistiques descriptives"):
       st.image("c_deposit.png")
-      st.write("Les clusters 2 et 0 ont des résultats sur le deposit nettement plus importants que les autres.")
+      st.write("Les clusters 3 et 2 ont des résultats sur le deposit nettement plus importants que les autres.")
       st.write("")
 
       st.image("c_education.png")
