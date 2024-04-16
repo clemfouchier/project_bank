@@ -2232,8 +2232,8 @@ if page == pages[6]:
 
       - Les clusters 3 et 5 sont les plus éduqués, notamment le 3 qui ne compte quasiment que des diplômés	du tertiaire.
       - Le cluster 1 est intermédiaire : il ne compte presque que des diplômés du secondaire.
-      - Le cluster 4 a le plus de de diplômés du primaire. Le niveau est le moins élevé.
-      - Enfin, le cluster 2 compte très peu de diplômés tertiaire, beaucoup du secondaire, et un nombre	non négligeable de diplômés du primaire.
+      - Le cluster 4 a le plus de diplômés du primaire. Le niveau est le moins élevé.
+      - Enfin, le cluster 2 compte très peu de diplômés du tertiaire, beaucoup du secondaire, et un nombre	non négligeable de diplômés du primaire.
       '''
       st.markdown(text)
       st.write("")
@@ -2284,7 +2284,7 @@ if page == pages[6]:
     Nos recommandations :
    - Utiliser le modèle prédictif du Machine Learning supervisé pour de futures campagnes, et prioriser les individus avec le taux de prédiction de souscription le plus important.
    - Ces individus seront plus présents dans les clusters 3 et 2. Ils vont concentrer la plupart des souscripteurs, et ceux qui auront le compte en banque le plus rempli.
-   - Réaliser des entretiens qualitatifs avec ces deux profils pour comprendre leur stade de vie,	leur mentalité, ce qui sera plus facile pour réaliser des argumentaires à même de les convaincre, et des campagnes de communication percutantes.
+   - Réaliser des entretiens qualitatifs avec ces deux profils pour comprendre leurs stades de vie et	leurs mentalités, ce qui sera plus facile pour réaliser des argumentaires à même de les convaincre, et des campagnes de communication percutantes.
    - Utiliser ces arguments lors des campagnes de phoning.
    - Réaliser des campagnes de communication en amont pour faciliter le travail au téléphone, pourquoi pas en adaptant le message selon le cluster grâce à la capacité de ciblage du digital.
     '''
